@@ -1,0 +1,7 @@
+echo "# Arrhytmia-prediction--Decision-Tree-and-Bayesian-classifier" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/marianabetancur18/Arrhytmia-prediction--Decision-Tree-and-Bayesian-classifier.git
+git push -u origin main
